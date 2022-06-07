@@ -42,7 +42,7 @@ using namespace std;
 		}
 	};
 	
-	conne conexion;
+	conne conexion; /////string de datos
 	
 	struct stalumno{
 	char carnet[8];
