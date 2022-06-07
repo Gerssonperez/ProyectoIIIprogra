@@ -17,7 +17,7 @@ void buscarElemento(char Tlista lista, int valor)
     if(band==0)
         cout<<"\n\n Numero no encontrado..!"<< endl;
 }
-
+//
 
 
 
